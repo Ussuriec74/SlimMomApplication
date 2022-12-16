@@ -1,5 +1,5 @@
 export const App = () => {
   return (
-    <p>Start</p>
+    <p>Start folders</p>
   );
 };
